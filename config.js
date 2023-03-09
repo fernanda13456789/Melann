@@ -8,29 +8,17 @@ import axios from 'axios'
 import moment from 'moment-timezone' 
 
 global.owner = [
-  ['5219992095479', '👑 MAIIDE BOT 👑', true],
-  ['50499698072', '💫 Mystic - Collaborator 1 💫', true],
-  ['51940617554', '💫 Mystic - Collaborator 2 💫', true],
-  ['51996089079', '💫 Mystic - Collaborator 3 💫', true],
-  ['525560066050', '💫 Mystic - Collaborator 4 💫', true],
-  ['50246028932', '💫 Mystic - Collaborator 5 💫', true],  
-  ['5212411719888', '💫 Mystic - Collaborator 6 💫', true],
-  ['5215533827255', '💫 Mystic - Collaborator 7 💫', false],
-  ['593968585283'],
-  ['5219993404349'],
-  ['584125778026'],
-  ['5219991402134'],	
-  ['5219996125657']
-] 
+  ['5732291574769', '👑 MAIIDE BOT 👑', true],
+ 
 
-global.suittag = ['5219993404349'] 
-global.prems = ['51995386439'] 
+global.suittag = ['5732291574769'] 
+global.prems = ['573229157476'] 
 
 global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
-global.wm = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
-global.igfg = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
-global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
+global.author = 'MELAAN BOT'
+global.wm = 'MELAAN BO'
+global.igfg = 'MELAAN BO'
+global.wait = '*[❗] ESTOY CARGANDO, ESPERA*'
 
 global.keysZens = ['LuOlangNgentot', 'c2459db922', '37CC845916', '6fb0eff124', 'hdiiofficial', 'fiktod', 'BF39D349845E', '675e34de8a', '0b917b905e6f']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
@@ -437,19 +425,19 @@ global.gt = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
 global.mysticbot = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD'
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD'
-global.waitt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
-global.waittt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
-global.waitttt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
+global.waitt = '*[❗] ESTOY CARGANDO, ESPERA*'
+global.waittt = '*[❗] ESTOY CARGANDO, ESPER*'
+global.waitttt = '*[❗] ESTOY CARGANDO, ESPER*'
 global.nomorown = '5219993404349'
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
-global.cmenut = '❖––––––『'
+global.cmenut = '╔═════════╝♡╚═════════╗'
 global.cmenub = '┊✦ '
-global.cmenuf = '╰━═┅═━––––––๑\n'
+global.cmenuf = '╚═════════╗♡╔═════════╝\n'
 global.cmenua = '\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕\n     '
-global.dmenut = '*❖─┅──┅〈*'
+global.dmenut = '*╔═════════╝♡╚═════════╗*'
 global.dmenub = '*┊»*'
 global.dmenub2 = '*┊*'
-global.dmenuf = '*╰┅────────┅✦*'
+global.dmenuf = '*'
 global.htjava = '⫹⫺'
 global.htki = '*⭑•̩̩͙⊱•••• ☪*'
 global.htka = '*☪ ••••̩̩͙⊰•⭑*'
