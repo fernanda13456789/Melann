@@ -222,7 +222,7 @@ conn.ev.off('creds.update', conn.credsUpdate)
 }
   
 conn.welcome = '*╔══════════════*\n*╟❧ @subject*\n*╠══════════════*\n*╟❧ @user*\n*╟❧ BIENVENIDO.A BOT* \n*║*\n*╟❧ 𝙳𝙴𝚂𝙲𝚁𝙸𝙿𝙲𝙸𝙾𝙽 𝙳𝙴𝙻 𝙶𝚁𝚄𝙿𝙾:*\n\n@desc\n\n*║*\n*╟❧ PASATELA BUEN WE*\n*╚══════════════*'
-conn.bye = '*╔══════════════*\n*╟❧ @user*\n*╟❧ 𝙷𝙰𝚂𝚃𝙰 𝙿𝚁𝙾𝙽𝚃𝙾 👋🏻* \n*╚══════════════*'
+conn.bye = '*╔══════════════*\n*╟❧ @user*\n*╟❧ MENOS UN ESTORBO👋🏻* \n*╚══════════════*'
 conn.spromote = '*@user ES NURVO ADMIN...*'
 conn.sdemote = '*@useR POR PNDEJO YA NO ES ADMIN!*'
 conn.sDesc = '*VE LA NUEVA DESCRIPCION𝙾*\n\n*𝙽𝚄𝙴𝚅𝙰 𝙳𝙴𝚂𝙲𝚁𝙸𝙿𝙲𝙸𝙾𝙽:* @desc'
